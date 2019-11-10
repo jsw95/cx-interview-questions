@@ -1,0 +1,28 @@
+{
+  "baked_beans" : {
+    "name": "Baked Beans",
+    "price": 0.99,
+    "discount_bogof": 2
+  },
+  "biscuits": {
+    "name": "Biscuits",
+    "price": 1.20
+  },
+  "sardines": {
+    "name": "Sardines",
+    "price": 1.89,
+    "discount_normal": 0.25
+  },
+  "shampoo_small": {
+    "name": "Shampoo Small",
+    "price": 2.00
+  },
+  "shampoo_medium": {
+    "name": "Shampoo Medium",
+    "price": 2.50
+  },
+  "shampoo_large": {
+    "name": "Shampoo Large",
+    "price": 2.50
+  }
+}
