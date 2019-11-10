@@ -1,7 +1,5 @@
 ## Usage
 
-
-
 Product details are set in the `product_details.json` file so that an external user can change the offers and prices without having to change the code itself.
 These are then applied in the `catalog.py` file and can be imported from the rest of the program.
 
